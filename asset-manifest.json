@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/karthickmindtek.great-site.net/static/css/main.8000e2da.css",
+    "main.js": "/karthickmindtek.great-site.net/static/js/main.54b43473.js",
+    "static/js/787.f6b29c0c.chunk.js": "/karthickmindtek.great-site.net/static/js/787.f6b29c0c.chunk.js",
+    "static/media/8.jpg": "/karthickmindtek.great-site.net/static/media/8.054460ac3431471d78c0.jpg",
+    "static/media/suriyas.jpg": "/karthickmindtek.great-site.net/static/media/suriyas.6e1dca0ffec7979cf384.jpg",
+    "static/media/Surya.jpg": "/karthickmindtek.great-site.net/static/media/Surya.4bb27eb7dcda0c6cb77f.jpg",
+    "static/media/face10.jpg": "/karthickmindtek.great-site.net/static/media/face10.839a37149e0e4e9e2482.jpg",
+    "static/media/face6.jpg": "/karthickmindtek.great-site.net/static/media/face6.164f91038a743b7600ec.jpg",
+    "index.html": "/karthickmindtek.great-site.net/index.html",
+    "main.8000e2da.css.map": "/karthickmindtek.great-site.net/static/css/main.8000e2da.css.map",
+    "main.54b43473.js.map": "/karthickmindtek.great-site.net/static/js/main.54b43473.js.map",
+    "787.f6b29c0c.chunk.js.map": "/karthickmindtek.great-site.net/static/js/787.f6b29c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8000e2da.css",
+    "static/js/main.54b43473.js"
+  ]
+}
